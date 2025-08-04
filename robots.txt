@@ -1,6 +1,2 @@
 User-agent: *
-Disallow: /
-Allow: /index.html
-Allow: /design.html
-Allow: /creative.html
-Allow: /contact.html
+Allow: /
