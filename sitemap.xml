@@ -1,50 +1,97 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	<url>
-		<loc>http://aronwalters.com/index.html</loc>
-	</url>
-	<url>
-		<loc>http://aronwalters.com/design.html</loc>
-	</url>
-	<url>
-		<loc>http://aronwalters.com/creative.html</loc>
-	</url>
-	<url>
-		<loc>http://aronwalters.com/contact.html</loc>
-	</url>
-	<url>
-		<loc>http://aronwalters.com/modern-heritage.html</loc>
-	</url>
-	<url>
-		<loc>http://aronwalters.com/office-interior.html</loc>
-	</url>
-	<url>
-		<loc>http://aronwalters.com/mgk-interior.html</loc>
-	</url>
-	<url>
-		<loc>http://aronwalters.com/kirigami.html</loc>
-	</url>
-	<url>
-		<loc>http://aronwalters.com/colour-interior.html</loc>
-	</url>
-	<url>
-		<loc>http://aronwalters.com/komplexx.html</loc>
-	</url>
-	<url>
-		<loc>http://aronwalters.com/hot-hot.html</loc>
-	</url>
-	<url>
-		<loc>http://aronwalters.com/self-portrait-1.html</loc>
-	</url>
-	<url>
-		<loc>http://aronwalters.com/studio-portraits.html</loc>
-	</url>
-	<url>
-		<loc>http://aronwalters.com/sbambinadj.html</loc>
-	</url>
-	<url>
-		<loc>http://aronwalters.com/sitting-with-anna.html</loc>
-	</url>
-	<url>
-		<loc>http://aronwalters.com/birth-of-afrodite.html</loc>
-	</url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://aronwalters.com/</loc>
+  <lastmod>2025-08-05T14:44:37+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://aronwalters.com/index.html</loc>
+  <lastmod>2025-08-05T14:44:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://aronwalters.com/design.html</loc>
+  <lastmod>2025-08-05T14:44:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://aronwalters.com/creative.html</loc>
+  <lastmod>2025-08-05T14:44:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://aronwalters.com/contact.html</loc>
+  <lastmod>2025-08-05T14:44:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://aronwalters.com/modern-heritage.html</loc>
+  <lastmod>2025-08-05T14:44:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://aronwalters.com/kirigami.html</loc>
+  <lastmod>2025-08-05T14:44:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://aronwalters.com/office-interior.html</loc>
+  <lastmod>2025-08-05T14:44:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://aronwalters.com/colour-interior.html</loc>
+  <lastmod>2025-08-05T14:44:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://aronwalters.com/mgk-interior.html</loc>
+  <lastmod>2025-08-05T14:44:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://aronwalters.com/studio-portraits.html</loc>
+  <lastmod>2025-08-05T14:44:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://aronwalters.com/komplexx.html</loc>
+  <lastmod>2025-08-05T14:44:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://aronwalters.com/sbambinadj.html</loc>
+  <lastmod>2025-08-05T14:44:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://aronwalters.com/self-portrait-1.html</loc>
+  <lastmod>2025-08-05T14:44:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://aronwalters.com/birth-of-afrodite.html</loc>
+  <lastmod>2025-08-05T14:44:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://aronwalters.com/hot-hot.html</loc>
+  <lastmod>2025-08-05T14:44:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://aronwalters.com/sitting-with-anna.html</loc>
+  <lastmod>2025-08-05T14:44:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
 </urlset>
