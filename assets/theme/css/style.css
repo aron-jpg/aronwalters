@@ -3,6 +3,12 @@ section {
   background-color: #ffffff;
 }
 
+body.index-page .image-wrapper img[src*="character-kongo-1256x1256.webp"] {
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    height: auto;
+}
+
 body {
   font-style: normal;
   line-height: 1.5;
